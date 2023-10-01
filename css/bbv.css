@@ -1,0 +1,70 @@
+/* #0B666A verde*/
+/* #951ABE violeta */
+/* barbra */
+
+
+
+
+
+
+.logoNavbar {
+height: 50px;
+}
+
+
+
+.carousel-item img {
+    width: 30%; 
+    height: 500px; 
+  
+}
+
+.btn {
+    background-color: #0B666A;
+    color: white;
+}
+
+#contenedorProductos {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+#carrito {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carrito h2 {
+    padding: 30px;
+}
+
+
+
+
+
+/* Estilo para centrar el botón */
+.boton-finalizar {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+/* Estilo para hacerlo violeta */
+.boton-finalizar {
+    background-color: #951ABE ;
+    color: white;
+    border: none;
+}
+
+/* Estilo para cuando el cursor esté sobre el botón */
+.boton-finalizar:hover {
+    background-color: rgb(194, 94, 237);
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "nombre": "Alfajor de maní y chocolate FLV",
+        "id": 1,
+        "tipo": "Alfajores",
+        "precio": 800,
+        "stock": 10,
+        "img": "./images/alfajor.webp"
+    },
+    {
+        "nombre": "Bebida sabor chocolate FLV",
+        "id": 2,
+        "tipo": "Bebidas",
+        "precio": 610,
+        "stock": 5,
+        "img": "./images/chocolatada.webp"
+    },
+    {
+        "nombre": "Hummus Garbanzos y Paltas FLV",
+        "id": 3,
+        "tipo": "Untables",
+        "precio": 1005,
+        "stock": 15,
+        "img": "./images/hummus.webp"
+    },
+    {
+        "nombre": "Galletitas Pepas de Membrillo FLV",
+        "id": 4,
+        "tipo": "Galletitas",
+        "precio": 580,
+        "stock": 20,
+        "img": "./images/pepas.webp"
+    },
+    {
+        "nombre": "Yogurt sabor Frutilla FLV",
+        "id": 5,
+        "tipo": "Yogures",
+        "precio": 505,
+        "stock": 8,
+        "img": "./images/yogurt.webp"
+    },
+    {
+        "nombre": "Medallón Aduki Hungaro",
+        "id": 6,
+        "tipo": "Medallones",
+        "precio": 1500,
+        "stock": 100,
+        "img": "./images/aduki.webp"
+    },
+    {
+        "nombre": "Medallón Lentejón Canadiense",
+        "id": 7,
+        "tipo": "Medallones",
+        "precio": 1800,
+        "stock": 80,
+        "img": "./images/lenteja.webp"
+    },
+    {
+        "nombre": "Medallón Quinoa Mediterranea",
+        "id": 8,
+        "tipo": "Medallones",
+        "precio": 2300,
+        "stock": 50,
+        "img": "./images/quinoa.webp"
+    }
+]
